@@ -7,7 +7,7 @@
 //
 
 #import "SAMIMViewController.h"
-
+#import "CTMediator.h"
 @interface SAMIMViewController ()
 
 @end

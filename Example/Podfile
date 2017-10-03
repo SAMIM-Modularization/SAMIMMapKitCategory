@@ -2,6 +2,7 @@ use_frameworks!
 
 target 'SAMIMMapKitCategory_Example' do
   pod 'SAMIMMapKitCategory', :path => '../'
+  #pod 'CTMediator'
 
   target 'SAMIMMapKitCategory_Tests' do
     inherit! :search_paths

@@ -1,0 +1,27 @@
+{
+  "name": "SAMIMMapKitCategory",
+  "version": "0.1.0",
+  "summary": "A short description of SAMIMMapKitCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/811528603@qq.com/SAMIMMapKitCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "811528603@qq.com": "811528603@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/811528603@qq.com/SAMIMMapKitCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SAMIMMapKitCategory/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}
